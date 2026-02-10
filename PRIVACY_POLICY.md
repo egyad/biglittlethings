@@ -338,13 +338,6 @@ We will never sell, rent, or trade your personal information or family photos to
 
 **Email:** egyadhitama@gmail.com
 
-
----
-
-## Jurisdiction and Governing Law
-
-This Privacy Policy is governed by the laws of [Your Jurisdiction, e.g., "the State of California, United States"] without regard to conflict of law principles.
-
 ---
 
 ## Your Consent
@@ -370,6 +363,5 @@ You may withdraw consent by deleting your account.
 
 ---
 
-**Questions?** Contact us at privacy@littlethings.app
 
 *This privacy policy is effective as of February 2, 2026.*
