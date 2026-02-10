@@ -1,10 +1,10 @@
-# Privacy Policy for Little Things
+# Privacy Policy for Big Little Things
 
 **Last Updated: February 2, 2026**
 
 ## Introduction
 
-Welcome to Little Things ("we," "our," or "us"). We are committed to protecting your privacy and the privacy of your family. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+Welcome to Big Little Things ("we," "our," or "us"). We are committed to protecting your privacy and the privacy of your family. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
 **By using Little Things, you agree to the collection and use of information in accordance with this policy.**
 
@@ -124,7 +124,7 @@ We will never sell, rent, or trade your personal information or family photos to
 
 **Cloud Storage:**
 - Data stored on Firebase (Google Cloud Platform)
-- Servers located in: [Specify your Firebase region, e.g., us-central1]
+- Servers located in: us-central1
 - Compliant with GDPR, CCPA, and other privacy regulations
 
 **Local Storage:**
@@ -187,7 +187,7 @@ We will never sell, rent, or trade your personal information or family photos to
 - Settings → Village → Manage Members
 
 **By Email:**
-- Contact: privacy@littlethings.app
+- Contact: egyadhitama@gmail.com
 - We'll respond within 30 days
 
 ### Regional Rights
@@ -213,7 +213,7 @@ We will never sell, rent, or trade your personal information or family photos to
 ## Children's Privacy
 
 ### Age Requirements
-- Little Things is designed for parents to document their children
+- Big Little Things is designed for parents to document their children
 - Users must be 18+ to create an account
 - We do not knowingly collect data from children under 13
 
@@ -327,24 +327,17 @@ We will never sell, rent, or trade your personal information or family photos to
 
 ### Privacy Questions
 
-**Email:** privacy@littlethings.app
+**Email:** egyadhitama@gmail.com
 
-**Mail:**
-Little Things Privacy Team
-[Your Company Address]
-[City, State, ZIP]
-[Country]
 
 **Response Time:** Within 30 days
 
-### Data Protection Officer
 
-**Email:** dpo@littlethings.app
 
 ### Support
 
-**Email:** support@littlethings.app
-**Website:** https://littlethings.app/support
+**Email:** egyadhitama@gmail.com
+
 
 ---
 
